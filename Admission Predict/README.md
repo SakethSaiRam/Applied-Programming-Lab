@@ -6,8 +6,8 @@ Build a model to predict the chance of college admission and identify the most i
 #### DataSet
 Admission_Predict_Ver1.1.csv
 
-#### Report 
-report.pdf
-
 #### Code
 ee22b022_Assignment4.py
+
+#### Report 
+report.pdf
