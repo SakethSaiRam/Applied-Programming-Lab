@@ -5,7 +5,7 @@ import numpy as np
 # There are 5 lists x1,x2,x3,x4,x5 := x1 consits of data points which are given
 # x2 consists of squares of the datapoints given, similarly up to 5th degree
 # Also the list 'b' consists of chance of admit values
-file = open('Assignment_4/Admission_Predict_Ver1.1.csv','r')
+file = open('Admission_Predict_Ver1.1.csv','r')
 x1,x2,x3,x4,x5,b = [],[],[],[],[],[]
 for i in file:
     j = i.split(',')
