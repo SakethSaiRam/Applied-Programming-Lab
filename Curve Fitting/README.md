@@ -1,7 +1,16 @@
-# How to run the code
+# Curve Fitting
 
-Extract the zip file ```ee22b022.zip```, it creates a folder called ```ee22b022```, it contains 4 python scripts and another sub folder containing the datasets, the path for the datasets were navigated appropriately while opening the file. 
+### Problem Statement
+Generate Curve fits for the given datasets.
 
-Open the terminal in ```ee22b022``` directory and run the code by using the command ```python3 code.py``` to get the required output.
+- DataSet1 : Straight Line
+- DataSet2 : Combination of Sinusoids
+- DataSet3 : Black Body Radiation Curve
 
-The plots get saved in the same directory of the form ```dataset_.png```.
+**Note** : All the datasets are corrupted with noise.
+
+#### Code
+dataset1.py, dataset2.py, dataset3_1.py, datset3_2.py
+
+#### Report
+report.pdf
